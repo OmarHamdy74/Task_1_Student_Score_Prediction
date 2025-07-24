@@ -116,5 +116,3 @@ Developed by **Omar Hamdy**
 
 ```
 
----
-
