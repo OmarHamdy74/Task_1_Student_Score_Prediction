@@ -113,6 +113,3 @@ Developed by **Omar Hamdy**
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/omar-hamdy-400961253/)
 
 ---
-
-```
-
