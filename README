@@ -1,14 +1,24 @@
-# Exam Score Prediction using Linear & Polynomial Regression
+
+---
+
+```markdown
+# 🎯 Exam Score Prediction using Linear & Polynomial Regression
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
 
 ## 📌 Overview
-This project demonstrates data analysis and predictive modeling for **exam scores** using:
-- **Exploratory Data Analysis (EDA)**
-- **Handling Missing Values**
-- **Feature Engineering**
-- **Linear Regression and Polynomial Regression**
-- **Model Evaluation (R², MAE, RMSE)**
+This project demonstrates **data analysis** and **predictive modeling** for **exam scores** using:
+- ✅ **Exploratory Data Analysis (EDA)**
+- ✅ **Handling Missing Values**
+- ✅ **Feature Engineering**
+- ✅ **Linear Regression and Polynomial Regression**
+- ✅ **Model Evaluation (R², MAE, RMSE)**
 
-The implementation is done in **Python** using Jupyter Notebook.
+The implementation is done in **Python** using **Jupyter Notebook**.
 
 ---
 
@@ -42,10 +52,10 @@ pip install -r requirements.txt
 
 ## 🚀 Features
 
-* Data cleaning and visualization using **pandas**, **seaborn**, and **missingno**
-* Polynomial feature generation using `PolynomialFeatures`
-* Model training using **LinearRegression**
-* Performance evaluation:
+* 📊 Data cleaning and visualization using **pandas**, **seaborn**, and **missingno**
+* ➕ Polynomial feature generation using `PolynomialFeatures`
+* 🔍 Model training using **LinearRegression**
+* ✅ Performance evaluation:
 
   * **R² Score**
   * **Mean Absolute Error (MAE)**
@@ -65,39 +75,47 @@ The project reports:
 
 ## ▶️ How to Run
 
-1. Clone this repository:
+1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/exam-score-prediction.git
+   git clone https://github.com/OmarHamdy74/Task_1_Student_Score_Prediction.git
    ```
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
 
    ```bash
    cd exam-score-prediction
    ```
-3. Install requirements:
+3. **Install requirements:**
 
    ```bash
    pip install -r requirements.txt
    ```
-4. Open the notebook:
+4. **Open the notebook:**
 
    ```bash
-   jupyter notebook My_Notebook.ipynb
+   jupyter notebook StudentPerformanceFactors.ipynb
    ```
 
 ---
 
 ## 📈 Future Improvements
 
-* Use **regularization (Ridge, Lasso)** to avoid overfitting
-* Add **Cross-validation**
-* Try **different models** like Decision Trees or Random Forest
+* 🔹 Use **regularization (Ridge, Lasso)** to avoid overfitting
+* 🔹 Add **Cross-validation**
+* 🔹 Try **different models** like Decision Trees or Random Forest
 
 ---
 
 ## 🛠 Author
 
-Developed by **\[Your Name]** – Data Analysis & Machine Learning Enthusiast
+Developed by **Omar Hamdy**
+💼 Data Analysis & Machine Learning Enthusiast
+📧 Email: [omarhamdy211@gmail.com](mailto:omarhamdy211@gmail.com)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/omar-hamdy-400961253/)
+
+---
 
 ```
+
+---
+
